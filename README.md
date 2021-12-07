@@ -1,6 +1,6 @@
 <!-- %20 -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&text=Welcome&fontSize=60&animation=fadeIn)</a>
+![header](https://capsule-render.vercel.app/api?type=rect&color=43B1B0&height=120&section=header&text=Welcome&fontSize=60&animation=fadeIn)</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
