@@ -12,4 +12,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk2415&show_icons=true&theme=radical)
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=50&section=header&text=&fontSize=60)</a>
+![header](https://capsule-render.vercel.app/api?type=rect&color=02303A&height=50&section=header&text=&fontSize=60)</a>
