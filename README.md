@@ -1,6 +1,6 @@
 <!-- %20 -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=43B1B0&height=50&section=header&text=Welcome&fontSize=30&animation=twinkling)</a>
+![header](https://capsule-render.vercel.app/api?type=ego&color=43B1B0&height=50&section=header&text=&fontSize=30)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://profile.intra.42.fr/users/kyunkim"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"/></a>
 <a href="https://velog.io/@enter"><img src="https://img.shields.io/badge/VELOG-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
